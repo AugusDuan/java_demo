@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tcp:war">
+    <output-path>$PROJECT_DIR$/tcp/target</output-path>
+    <root id="archive" name="tcp.war">
+      <element id="artifact" artifact-name="tcp:war exploded" />
+    </root>
+  </artifact>
+</component>
